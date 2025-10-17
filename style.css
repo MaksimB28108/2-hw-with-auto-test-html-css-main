@@ -109,19 +109,20 @@ select {
     font-weight: 700;
     font-size: 14px;
     color: #fff;
-    margin-bottom: 60px;
 }
 
 .line {
     border: 1px solid rgba(48, 48, 48, 0.3);
     width: 1440px;
     height: 0px;
+    margin: 60px 0 60px;
 }
 
 table {
     border-collapse: collapse;
     border: 1px solid #95a1bb;
     margin-top: 60px;
+    font-size: 14px;
 }
 
 th, td {
@@ -135,5 +136,5 @@ footer {
 
 .footer-link {
     text-decoration: none;
-
+    font-size: 14px;
 }
